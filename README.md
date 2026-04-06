@@ -13,6 +13,8 @@ The Radar Range Equation is a fundamental formula used in radar system design to
 5.	Calculate the Maximum Range: Use the function to calculate the maximum range of the radar.
 6.	Execute the Program: Run the Python script to calculate and display the maximum range of the radar.
 #   OUTPUT:
+
+
 ![WhatsApp Image 2026-03-27 at 6 24 05 PM](https://github.com/user-attachments/assets/4f0038d1-eb57-40c1-9d60-d46d7f0cd3a1)
 
 
